@@ -1,0 +1,142 @@
+.all{
+    width: 600px;
+    height: 800px;
+    border: 2px solid #ccc;
+    margin: 0 auto;
+    border-radius: 5px;
+    background-color: rgb(252, 213, 219);
+}
+.all form{
+    margin-top: 20px;
+margin-left: 20px;
+}
+
+
+
+.hoten input{
+    width: 552px;
+height: 30px;
+border-radius: 10px;
+}
+
+.ngaysinh input{
+    width: 552px;
+    height: 30px;
+    border-radius: 10px;
+}
+
+
+
+.diem input{
+    width: 552px;
+    height: 30px;
+    border-radius: 10px;
+}
+.diem:hover input{
+    background-color: rgb(99, 248, 228);
+}
+
+
+
+.nghenghiep input{
+    width: 552px;
+    height: 30px;
+    border-radius: 10px;
+}
+
+
+
+.gioitinh{
+    position: relative;
+    
+}
+.cangioitinh label{
+    padding: 0 5px;
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 10px;
+    background-color: rgb(252, 213, 219);
+}
+.chongioitinh{
+    padding-left: 20px;
+    padding-top: 20px;
+    border: 2px solid rgb(43, 39, 39);
+    margin-right: 20px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+}
+
+
+
+
+
+
+
+.nghenghiep{
+    margin-top: 30px;
+}
+.nghenghiep input{
+ margin-top: 10px;
+ border-radius: 10px;
+}
+
+
+
+
+.sothich{
+    position: relative;
+    
+}
+.cansothich label{
+    padding: 0 5px;
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 10px;
+    background-color: rgb(252, 213, 219);
+}
+.chonsothich{
+    padding-left: 20px;
+    padding-top: 20px;
+    border: 2px solid rgb(43, 39, 39);
+    margin-right: 20px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+}
+
+
+
+.ghichu{
+    margin-top: 10px;
+}
+.ghichu textarea{
+    border-radius: 10px;
+   
+}
+
+
+
+.hr{
+    display: flex;
+    margin-top: 0px;
+}
+.dangki button{
+    background-color: pink;
+    border-radius: 10px;
+    padding: 10px 40px;
+    font-size: 15pt;
+}
+.dangki:hover button{
+    color: white;
+    background-color: rgb(99, 248, 228);
+}
+.nhaplai button{
+    background-color: pink;
+    border-radius: 10px;
+    padding: 10px 40px;
+    font-size: 15pt;
+   
+}
+.nhaplai:hover button{
+    color: white;
+    background-color: rgb(99, 248, 228);
+}

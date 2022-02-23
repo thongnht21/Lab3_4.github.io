@@ -1,0 +1,52 @@
+.all{
+    width: 500px;
+    height: 600px;
+    border: 2px solid #ccc;
+    margin: 0 auto;
+    background-color: rgb(252, 213, 219);
+}
+.all form{
+    margin-top: 20px;
+margin-left: 20px;
+}
+
+
+
+.hoten input{
+    width: 455px;
+height: 25px;
+}
+
+
+.hinhanh ul{
+    display: flex;
+    padding-left: 0px;
+}
+
+
+
+.ghichu input{
+    height:68px;
+    width: 455px;
+}
+
+
+
+.quoctich select {
+    width: 455px;
+    height: 30px;
+}
+
+.hr{
+    display: flex;
+}
+.dangki button{
+    background-color: pink;
+    border-radius: 10px;
+    padding: 5px 20px;
+}
+.nhaplai button{
+    background-color: pink;
+    border-radius: 10px;
+    padding: 5px 20px;
+}

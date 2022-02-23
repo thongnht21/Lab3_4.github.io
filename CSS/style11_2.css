@@ -1,0 +1,24 @@
+table{
+    border-collapse: collapse;
+    width: 70%;
+    font-size: 20px;
+    text-align: center;
+    border-color: lightgreen;
+    margin: 0 auto;
+}
+tr{
+    height: 40px;
+}
+table, td, th {
+    border: 1px solid black;
+}
+.xanh{
+    background-color: #bf0df5;
+    color: white;
+}
+tbody > tr:nth-child(2n+1){
+    background-color: #ec7ad0;
+}
+tbody>tr:nth-child(2n){
+    background-color: #f8b1ef;
+}

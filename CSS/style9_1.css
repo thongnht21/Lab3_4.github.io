@@ -1,0 +1,25 @@
+.all{
+    background-color: rgb(252, 213, 219);
+        width: 300px;
+    min-height: 60%;  
+    margin: 0 auto;
+}
+form{
+    flex-direction: column;
+    padding-top: 30px;
+    padding-bottom: 40px;
+    margin: 20px 20px;
+}
+.text{
+    border-radius: 5px;
+    position: relative;
+    width: 250px;
+    height: 25px;
+}
+form label {
+margin-right: 100px;
+    
+}
+button{
+    padding: 10px 5px;
+}
